@@ -22,3 +22,7 @@ Launch Server
 ```
 rtsp-server/mediamtx rtsp-server/mediamtx.yml
 ```
+
+Dependencies:
+- https://github.com/bluenviron/mediamtx
+- ffMPEG
